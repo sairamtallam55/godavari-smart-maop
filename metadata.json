@@ -1,0 +1,11 @@
+{
+  "name": "Godavari SmartMap",
+  "description": "GIS-Based Mapping of Facilities and Civic Infrastructure for Godavari Pushkaralu 2027 in Andhra Pradesh. Find Every Facility. Navigate with Confidence.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
+
